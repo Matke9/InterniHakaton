@@ -1,10 +1,10 @@
-package com.bekemnd.proujekat;
+package api.hakaton;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProujekatApplicationTests {
+class HakatonApplicationTests {
 
 	@Test
 	void contextLoads() {

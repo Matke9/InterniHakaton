@@ -1,13 +1,13 @@
-package com.bekemnd.proujekat;
+package api.hakaton;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProujekatApplication {
+public class HakatonApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProujekatApplication.class, args);
+		SpringApplication.run(HakatonApplication.class, args);
 	}
 
 }
