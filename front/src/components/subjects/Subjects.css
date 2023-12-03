@@ -1,0 +1,18 @@
+.all-subjects {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    /* margin-top: 5%; */
+    height: 85vh;
+    background-color: #EDEDED;
+}
+
+.subject {
+    text-align: center;
+
+    width: 250px;
+    height: 250px;
+    background-color: #8ECDDD;
+    border-radius: 15%;
+}

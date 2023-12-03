@@ -1,0 +1,27 @@
+.hero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 100vh;
+    background-color: #EDEDED;
+}
+
+.hero-machok {
+    margin-left: 0rem;
+    margin-right: 5%;
+}
+
+.hero-tekst p {
+    text-align: center;
+}
+
+.hero-tekst {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

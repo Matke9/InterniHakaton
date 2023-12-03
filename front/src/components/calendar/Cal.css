@@ -1,0 +1,28 @@
+.cal-page {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cal-tekst {
+    display: flex;
+    flex-direction: column;
+    margin: 1px;
+}
+
+.cal-tekst input {
+    width: 120%;
+    height: 5vh;
+
+    background-color: #FFCC70;
+    border-radius: 10px;
+}
+
+.cal-tekst button {
+    width: 120%;
+    height: 5vh;
+    margin-top: 25px;
+
+    background-color: #8ECDDD;
+    border-radius: 10px;
+}
